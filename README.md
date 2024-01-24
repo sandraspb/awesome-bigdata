@@ -620,6 +620,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Knowage](https://www.knowage-suite.com/) - open source business intelligence platform. (former [SpagoBi](http://www.spagobi.org/))
 * [SparklineData SNAP](http://sparklinedata.com/) - modern B.I platform powered by Apache Spark.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
+* [Tabula](https://www.tabula.io/) - business intelligence platform and no-code analytics built for cloud data warehouses.
 * [Zoomdata](https://www.zoomdata.com/) - Big Data Analytics.
 
 
